@@ -1,7 +1,7 @@
 # Supply-Chain-Management-Application
 An application using python which sends live information to the Assembly Unit from the OEMs present under its supply chain. Also, a report will be generated at the end of the shift, and an Email must be sent automatically to the higher officials. This is to maintain a transparency throughout the supply chain so that the production could be economical and as efficient as possible.
 
-#Working Principle:
+# Working Principle:
 The UI for the application is made using the tkinter package for python. Various modules are 
 created to undergo individual tasks. Firstly, there is a timer module which countdowns the time 
 in decrements and notifies when the Shift has ended. Once the Shift has ended, an automatic 
