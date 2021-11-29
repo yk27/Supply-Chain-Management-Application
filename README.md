@@ -1,0 +1,2 @@
+# Supply-Chain-Management-Application
+An application using python which sends live information to the Assembly Unit from the OEMs present under its supply chain. Also, a report will be generated at the end of the shift, and an Email must be sent automatically to the higher officials. This is to maintain a transparency throughout the supply chain so that the production could be economical and as efficient as possible.
